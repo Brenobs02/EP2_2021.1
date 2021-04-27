@@ -1,2 +1,2 @@
 def extrai_naipe(carta):
-        return carta[-1]
+        return carta[-1] 
